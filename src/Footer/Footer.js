@@ -4,7 +4,7 @@ import React from 'react';
 function Footer() {
   return (
     <footer>
-      Footer
+     <p>All rights reserved &copy; Fabio Nolasco</p>
     </footer>
   );
 }
